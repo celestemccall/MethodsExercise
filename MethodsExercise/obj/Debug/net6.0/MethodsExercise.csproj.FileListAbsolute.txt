@@ -1,0 +1,15 @@
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/celestemccall/Desktop/repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
