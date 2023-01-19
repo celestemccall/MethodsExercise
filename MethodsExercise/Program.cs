@@ -2,6 +2,27 @@
 {
     class Program
     {
+        public static int Sum(int num1, int num2)
+        {
+            var answer = num1 + num2;
+            return answer;
+        }
+
+        public static int Sub(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+        public static int Multiply(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+
+        public static int Divide(int num1, int num2)
+        {
+            return num1 / num2;
+        }
+
         public static void HelloThere()
         {
             Console.WriteLine("Hello there! What is your first name?");
@@ -29,10 +50,18 @@
 
 
 
-        } 
+        }
 
     static void Main(string[] args)
         {
+            var amoutnOfCoins = Sum(2, 4);
+            var amoutOfDollars = Sub(55, 25);
+            var amountOfCandy = Multiply(30, 40);
+            var amountOfTime = Divide(60, 20);
+
+
+
+
             HelloThere();
 
            
