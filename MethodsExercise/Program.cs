@@ -16,7 +16,19 @@
         Console.WriteLine($"That is so awesome {userName}, one last question, what is your favorite band?");
             var band = Console.ReadLine();
 
-        Console.WriteLine($"It has been wonderful getting to know you {userName}, talk to you soon!");
+        Console.WriteLine($"It has been wonderful getting to know you {userName}, here is your profile!");
+
+            Console.WriteLine("----------------------------------------------------");
+
+
+            Console.WriteLine($"Name:{userName}");
+            Console.WriteLine($"Favorite Color:{color}");
+            Console.WriteLine($"Favorite Animal:{animal}");
+            Console.WriteLine($"Favorite Band:{band}");
+
+
+
+
         } 
 
     static void Main(string[] args)
